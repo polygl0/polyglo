@@ -624,13 +624,13 @@ footer {
 
 @font-face {
   font-family: "Onder"; 
-  src: url("../ONDER-REGULAR.TTF") format("truetype"); 
+  src: url("ONDER-REGULAR.TTF") format("truetype"); 
   font-style: normal; 
   font-weight: normal; 
 }
 @font-face {
   font-family: "Rubik"; 
-  src: url("../Rubik-VariableFont_wght.ttf") format("truetype"); 
+  src: url("Rubik-VariableFont_wght.ttf") format("truetype"); 
   font-style: normal; 
   font-weight: 450; }ight: 450; 
 } 
